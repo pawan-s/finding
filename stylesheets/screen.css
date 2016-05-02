@@ -1,0 +1,31 @@
+html, body {padding:0;margin:0; font-family:Georgia, serif; color:#4a443d; text-align:center;}
+a {color:#4a443d; text-decoration:none}
+body {overflow:auto; height:22000px; } /*7600px*/
+#skrollr-body {width:100%; height:100%; position:fixed; }
+#skrollr-body  div {overflow:hidden; position:absolute; }
+.centered { top:0; bottom:0; left:0; right:0; margin:auto; }
+#C0 {background: #fff url('../images/Opening.jpg') center center no-repeat ; z-index:21;}
+#C1 {background: #EEECE0 url('../images/1.png') center center no-repeat ; z-index:20;}
+#C2 {background: #FFA88F url('../images/2.png') center center no-repeat ; z-index:19;}
+#C3 {background: #EEECE0 url('../images/3.png') center center no-repeat ; z-index:18;}
+#C4 {background: #EEECE0 url('../images/4.png') center center no-repeat ; z-index:17;}
+#C5 {background: #FFA88F url('../images/5.png') center center no-repeat ; z-index:16;}
+#C6 {background: #FF6D4C url('../images/6.png') center center no-repeat ; z-index:15;}
+#C7 {background: #FF6D4C url('../images/7.png') center center no-repeat ; z-index:14;}
+#C8 {background: #FF6D4C url('../images/8.png') center center no-repeat ; z-index:13;}
+#C9 {background: #FF6D4C url('../images/9.png') center center no-repeat ; z-index:12;}
+#C10 {background: #FF6D4C url('../images/10.png') center center no-repeat ; z-index:11;}
+#C11 {background: #FF6D4C url('../images/11.png') center center no-repeat ; z-index:10;}
+#C12 {background: #FFA88F url('../images/12.png') center center no-repeat ; z-index:9;}
+#C13 {background: #FF6D4C url('../images/13.png') center center no-repeat ; z-index:8;}
+#C14 {background: #FFA88F url('../images/14.png') center center no-repeat ; z-index:7;}
+#C15 {background: #EEECE0 url('../images/15.png') center center no-repeat ; z-index:6;}
+#C16 {background: #EEECE0 url('../images/16.png') center center no-repeat ; z-index:5;}
+#C17 {background: #EEECE0 url('../images/17.png') center center no-repeat ; z-index:4;}
+
+
+#pattern1 { background:#fff ; z-index:3; background-attachment:fixed}
+
+#pattern2 { background:url('../images/swirl_pattern.png'); z-index:2;}
+#wish3 {background:#fff url('../images/Ending.jpg') no-repeat center center; z-index:2; border-radius:50%;}
+
